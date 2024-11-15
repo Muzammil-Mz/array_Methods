@@ -93,6 +93,18 @@ The every() method does not change the original array
 // let res = age.every(agecheck)
 // console.log(res);
 
+
+// let age = [2, 4, 8, 6, 2]
+// function eveodd(num){
+
+//         return (num%2==0)
+// }
+// let result=age.every(eveodd)
+// console.log(result);
+
+
+
+
 //fill, fills all the elemetns with given elemtns
 // let age = [22, 55, 88, 77, 19]
 // let newage=age.fill(999)
