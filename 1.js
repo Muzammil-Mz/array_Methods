@@ -180,8 +180,8 @@ The every() method does not change the original array
 
 
 // array.from() accepts only string converts them to string 
-// let students= 'abcdef'
-// console.log(Array.from(students));
+let students= 'abcdef'
+console.log(Array.from(students));
 
 
 
@@ -250,8 +250,8 @@ The every() method does not change the original array
 // console.log(name.sort());
 
 
-// const numb=[25,9,99,1000,100,0,65] //
-// console.log(numb.sort((a,b)=>a-b));
+const numb=[25,9,99,1000,100,0,65] //
+console.log(numb.sort((a,b)=>a-b));
 
 
 // let names=["juanid","anas","faraz","kishore"]

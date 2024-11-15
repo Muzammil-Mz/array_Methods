@@ -8,5 +8,5 @@
 // console.log(numb.sort((a,b)=>a-b));
 
 
-// const numb=["apple","dog","zebra"] //
-// console.log(numb.sort((a,b)=>a-b));
+const numb=["apple","dog","zebra"] //
+console.log(numb.sort((a,b)=>a-b));
